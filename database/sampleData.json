@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "name": "Arjun Sharma", "email": "arjun@example.com", "travelStyle": ["adventure", "budget"] }
+  ],
+  "trips": [
+    { "title": "Goa Beach Week", "destination": { "city": "Goa", "country": "India" }, "budget": "mid" }
+  ]
+}
